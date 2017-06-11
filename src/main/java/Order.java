@@ -5,5 +5,6 @@ public class Order {
     private String orderName;
     public void say(){
         System.out.println("这里是订单系统...");
+        System.out.println("这里是订单系统2...");
     }
 }
