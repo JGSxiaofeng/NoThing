@@ -7,5 +7,6 @@ public class Account {
 
     public void say(){
         System.out.println("这里是账户系统...");
+        System.out.println("这里是账户系统2...");
     }
 }
